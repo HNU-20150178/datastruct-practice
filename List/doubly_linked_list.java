@@ -1,4 +1,4 @@
-package List;
+package DataStructures.List;
 
 
 public class doubly_linked_list<E> {

@@ -1,4 +1,4 @@
-package Stack;
+package DataStructures.Stack;
 
 public class Stack {
     public static void main(String[] args){
